@@ -1,0 +1,83 @@
+.top_pic{
+height:300px;
+width:1263;
+}
+.pic_text
+{
+font-family:tahoma;
+color: white;
+padding-top: 96px;
+padding-left: 800px;
+margin-right: 1px;
+position:absolute;
+top:10px;
+text-align: center;
+width:300px;
+
+
+}
+.para_box{
+  margin-top: -44px;
+  padding-top: 210px;
+  align-content: center;
+
+}
+.para1
+{
+font-family: tahoma;
+width: 20%;
+height: 50%;
+font-size: 16px;
+display: inline-block;
+text-align: justify;
+
+}
+
+.para2
+{
+font-family: tahoma;
+width: 20%;
+height: 50%;
+font-size: 16px;
+display: inline-block;
+text-align: justify;
+}
+.button {
+    background-color: #34495e;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    }
+
+.qoute
+{
+  font-family:tahoma;
+  font-style: italic;
+  font-size: 16px;
+  margin-right: 40px;
+  padding-left: 38px;
+  align-content: center;
+  background-color:#ecf0f1;
+  width: 45%;
+  height: 8%;
+  text-align: justify;
+  display: inline-block;
+}
+.grey_line
+{
+  margin-right: 40px;
+  padding-left: 38px;
+  align-content: center;
+  background-color:#e74c3c;
+  width:1px;
+  height: 8%;
+  display: inline-block;
+}
+#corner {
+    border-radius: 25px;
+    background: #34495e;
+    padding: 20px;
+    width: 300px;
+    height: 30px;
+}
