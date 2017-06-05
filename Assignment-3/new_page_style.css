@@ -1,0 +1,61 @@
+.top_pic{
+height:30%
+}
+.pic_text
+{
+font-family:tahoma;
+color: white;
+padding-top: 96px;
+padding-left: 800px;
+margin-right: 1px;
+position:absolute;
+top:10px;
+text-align: center;
+}
+
+#corner {
+    border-radius: 25px;
+    background: #34495e;
+    padding: 20px;
+  height: 30px;
+}
+.para_box
+{
+  margin-top: -44px;
+  padding-top: 210px;
+  }
+.para1
+{
+font-family: tahoma;
+height: 50%;
+font-size: 16px;
+text-align: justify;
+}
+.para2
+{
+font-family: tahoma;
+height: 50%;
+font-size: 16px;
+text-align: justify;
+}
+.button {
+    background-color: #34495e;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    }
+
+    .qoute
+    {
+      font-family:tahoma;
+      font-style: italic;
+      font-size: 16px;
+      margin-right: 40px;
+      padding-left: 38px;
+      align-content: center;
+      background-color:#ecf0f1;
+
+      height: 8%;
+      text-align: justify;
+    }

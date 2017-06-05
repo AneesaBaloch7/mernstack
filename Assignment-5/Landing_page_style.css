@@ -1,0 +1,110 @@
+.top_nav
+{
+  height: 80px;
+
+}
+.logo
+{ display:inline-block;
+}
+
+#logo_heading{
+	float:right;
+	padding-bottom:30px;
+  font-style: +2;
+  font-family: 'Shadows Into Light Two', cursive;
+  color: #630;
+}
+#logo_para{
+	  font-size: +1;
+  font-family: monospace;
+  color:#F93;
+  padding-left:75px;
+}
+.nav_text
+{
+	color: #630;
+	font-family: 'Raleway', sans-serif;
+	margin-top:-77px;
+}
+.top_pic{
+height:300px;
+}
+.pic_text_box
+{
+font-family: 'Raleway', sans-serif;
+
+padding-top: 20px;
+padding-left: 200px;
+margin-right: 200px;
+position:absolute;
+top:10px;
+text-align: center;
+font-size:large;
+
+}
+#text_box1
+{
+	border: 3px solid #39F;
+    padding: 25px;
+    margin: 25px;
+}
+hr {
+background-color:#3CF;
+ height: 1px;
+  border: 0;
+}
+.yellow
+{
+	background-color:#FC0;
+	height:60px;
+}
+.nav1
+{
+
+  	position:absolute;
+}
+.grey_box
+{
+	height:160px;
+	background-color:#999;
+}
+.pic{
+	position:absolute;
+
+
+}
+.qoutes
+{
+	text-align:justify;
+  font-style: italic;
+  font-family: monospace;
+}
+.cyan_box
+{
+
+	height:160px;
+	background-color:#1abc9c;
+}
+.blue_box
+{
+	height:160px;
+	background-color:#3498db;
+}
+.green_box
+{
+	height:160px;
+	background-color:#27ae60;
+}
+#qoute_name{
+  font-style: italic;
+  font-family: monospace;
+  font-size: +1;
+  color: white;
+}
+#a_h1{
+
+  color: #16a085;
+}
+.fontss{
+  font-family: 'Lato', sans-serif;
+}
